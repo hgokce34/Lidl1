@@ -1,4 +1,4 @@
-package Lidl;
+package Lidl.US105.DeletingMyAccount;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
